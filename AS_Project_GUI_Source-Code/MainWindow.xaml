@@ -21,7 +21,7 @@
         <Button x:Name="btnKundeBearbeiten" Content="Bearbeiten" HorizontalAlignment="Left" Margin="135,259,0,0" VerticalAlignment="Top" Width="114" Height="25" Background="#FFCFCFCF"/>
         <Button x:Name="btnVerhaeltnisAnzeigen" Content="Anzeigen" Margin="258,229,0,0" VerticalAlignment="Top" Height="25" Background="#FFCFCFCF" HorizontalAlignment="Left" Width="121"/>
         <Button x:Name="btnVerhaeltnisZuweisen" Content="Zuweisen" Margin="384,229,0,0" VerticalAlignment="Top" Height="25" Background="#FFCFCFCF" HorizontalAlignment="Left" Width="120"/>
-        <ListBox x:Name="lbVerhaeltnis" Margin="258,259,14,10" Background="#FFD62121"/>
+        <ListBox x:Name="lbVerhaeltnis" Margin="258,259,14,10" Background="#FFCFCFCF"/>
         <Label x:Name="labelKundeName" Content="Name:" HorizontalAlignment="Left" Height="25" Margin="16,289,0,0" VerticalAlignment="Top" Width="83"/>
         <Label x:Name="labelKundenNummer" Content="Kunden-Nr.:" HorizontalAlignment="Left" Height="25" Margin="16,320,0,0" VerticalAlignment="Top" Width="83"/>
         <TextBox x:Name="tbKundeName" HorizontalAlignment="Left" Height="26" Margin="99,289,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="150" Background="#FFCFCFCF" Text="Max Mustermann"/>
